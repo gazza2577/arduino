@@ -1,0 +1,12 @@
+build
+sdkconfig
+sdkconfig.old
+.clang_complete
+.gcc-flags.json
+.vscode
+*.code-workspace
+docs/html
+docs/esp32cs.tag
+docs/warnings
+data/*.gz
+pcb/*.*-bak
